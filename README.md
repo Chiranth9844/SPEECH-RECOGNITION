@@ -51,6 +51,7 @@ To capture the input from the microphone we use the listen method.
 Installation of PyAudio in Python
 
 To install Pyaudio in python, run the following command in the terminal or if you are using pycharm add the package from the project interpreter in the settings.
+
 ![image](https://user-images.githubusercontent.com/53873995/186130451-e3d1ec82-b4d7-4806-96ba-5d451650c79b.png)
             
 
