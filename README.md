@@ -35,8 +35,7 @@ The package has a Recognizer class which is basically where the magic happens. I
 •	recognize_sphinx( )
 
 Now, recognize_sphinx can be used to run the speech recognition system offline as well. It requires the installation of Pocketsphinx.
-
-         ![image](https://user-images.githubusercontent.com/53873995/186130308-df3445ea-dbd1-4ae8-b7c1-60ad7ad34aaf.png)
+![image](https://user-images.githubusercontent.com/53873995/186130308-df3445ea-dbd1-4ae8-b7c1-60ad7ad34aaf.png)
 
 
 Taking Input from Microphones
@@ -45,17 +44,15 @@ To use the microphones, we will have to install pyaudio module as well. We use t
 For most of the projects, we can use the default microphones. But if you do not wish to use the default microphone, you can get the list of microphone names using the list_microphone_names method.
 To capture the input from the microphone we use the listen method.
 
-          ![image](https://user-images.githubusercontent.com/53873995/186130392-ba0f589b-ce1f-44c8-8f74-05eaae4b652f.png)
+![image](https://user-images.githubusercontent.com/53873995/186130392-ba0f589b-ce1f-44c8-8f74-05eaae4b652f.png)
 
 
 
 Installation of PyAudio in Python
 
 To install Pyaudio in python, run the following command in the terminal or if you are using pycharm add the package from the project interpreter in the settings.
-
-           ![image](https://user-images.githubusercontent.com/53873995/186130451-e3d1ec82-b4d7-4806-96ba-5d451650c79b.png)
+![image](https://user-images.githubusercontent.com/53873995/186130451-e3d1ec82-b4d7-4806-96ba-5d451650c79b.png)
             
-
 
 Use Case
 We will make a program using the speechrecognition module in python to recognize speech and execute the following:
